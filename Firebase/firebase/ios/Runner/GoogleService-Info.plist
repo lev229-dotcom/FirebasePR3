@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>957084576686-m44das8upb7heorrbmeh3v9la6147kbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.957084576686-m44das8upb7heorrbmeh3v9la6147kbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHZgyJpq_9YH4bec_z7xKpMb6o92AeYIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>957084576686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>fir-1bdac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-1bdac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:957084576686:ios:14ec8e24faf5684e30f63f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-1bdac-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
